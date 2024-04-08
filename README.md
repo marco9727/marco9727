@@ -1,8 +1,12 @@
-<h1 align="left">Hey Benvenuto 👋</h1>
+<h1 align="left">Hey Welcome 👋 I'm Marco</h1>
 
 ###
 
-<p align="left">Mi chiamo Marco Albarella e sto puntando a  diventare un front-end developer<br>Qui troverai l'inizio del mio percorso tra esercizi e progetti</p>
+<p align="left">My name is Marco Albarella, I'm from Naples, Italy, and I'm aiming to become a front-end developer<br>Here you will find the beginning of my journey between exercises and projects.</p>
+
+###
+
+<img align="left" height="120" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmIydDVxMzhsM3dwbjc4Z3d5YjZ2N2J1eHM5OTJneGJhcWZxZmpldSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7NoNw4pMNTvgc/giphy.webp"  />
 
 ###
 
@@ -10,7 +14,7 @@
 
 ###
 
-<p align="left">✨ <br>📚 Al momento mi sto formando in ambito full-stack developer con il corso EPICODE<br>🎯 Obbiettivi:  Specializzarmi in Front-end developer<br>🎲 Fun fact:</p>
+<p align="left">📚I am currently training in the full-stack developer field with the EPICODE course<br>🎯 Objectives: Specialize in Front-end developer<br>🎓 Graduated from Scientific High School</p>
 
 ###
 
